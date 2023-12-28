@@ -1,0 +1,154 @@
+body{ 
+    background-attachment: fixed;
+}
+.profilePicture{
+    margin-top: 60px;
+    text-align: center;
+}
+.profilePicture img{
+    border: 1px solid black;
+    box-shadow: 7px 5px 5px white;
+    border-radius: 40px;
+    
+}
+.profilePicture p{
+    color: white;
+}
+.nav p{
+    text-align: right;
+    padding-right: 10px;
+
+}
+.nav{
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.nav a{
+    text-align: right;
+    margin-top: 10px;
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.nav a:hover{
+    color: rgb(218, 99, 99);
+    transition: 0.5s;
+}
+.runningText marquee{
+    color: white;
+    padding-top: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 150px;
+}
+
+.containerAboutme{
+    background-color: black;
+}
+
+#About {
+    color: white;
+    padding-top: 400px;
+    padding-left: 100px;
+}
+.aboutme a{
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.aboutme a:hover{
+    color:white;
+    background-color: rgb(218, 99, 99);
+    transition: 0.5s;
+}
+#Services {
+    color: white;
+    padding-left: 200px;
+    text-align: left;
+}
+
+/*Organizaion*/
+.containerOrganization{
+    padding-top: 100px;
+    background-color: black;
+}
+#Organization {
+    color: white;
+    text-align: left;
+    padding-left: 300px;
+}
+
+.ViewCCR{
+    width: 700px;
+    margin-bottom: 1px;
+    color: white;
+    margin-left: 600px;
+    text-align: center;
+    background-image: url(CCR\ pictures\ and\ Videos/ccr.jpg);
+    padding-top: 200px;
+    padding-bottom: 250px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+.ViewCCR a{
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(15, 15, 15,0.5);
+    text-decoration: none;
+    color: white;
+}
+.ViewCCR a:hover{
+    background-color: rgb(218, 99, 99);
+    color: white;
+    transition: 0.5s;
+}
+.ViewPYCC{
+    width: 700px;
+    margin-bottom: 1px;
+    color: white;
+    margin-left: 600px;
+    text-align: center;
+    background-image: url(PYCC\ images\ and\ Videos/officers.jpg);
+    padding-top: 200px;
+    padding-bottom: 250px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.ViewPYCC a{
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(15, 15, 15,0.5);
+    text-decoration: none;
+    color: white;
+}
+.ViewPYCC a:hover{
+    background-color: rgb(218, 99, 99);
+    color: white;
+    transition: 0.5s;
+}
+
+
+#PYCC img{
+    width: 700px;
+    padding-left: 550px;
+}
+
+
+#Contact{
+    text-align: left;
+    padding-left: 400px;
+    color:white;
+    
+}
+#Contact a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
+#Contact a:hover{
+    background-color:  rgb(218, 99, 99);
+    color: white;
+    transition: 0.5s;
+}
